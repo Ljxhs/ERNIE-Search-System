@@ -1,0 +1,5 @@
+numpy
+paddlepaddle==2.6.0
+paddlenlp>=2.1.1
+hnswlib
+ipykernel
