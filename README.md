@@ -12,7 +12,7 @@
 ```text
 Literature-Retrieval-System/
 ├── recall/                  # 语义召回模块
-│   ├── base_model.py        # 双塔模型网络结构 (ERNIE 1.0)
+│   ├── base_model.py        # 双塔模型网络结构 (ERNIE 3.0)
 │   ├── finetune.py          # 召回模型训练脚本 (In-batch Negatives Loss)
 │   ├── recall.py            # 向量索引构建与召回预测
 │   ├── ann_util.py          # HNSW 索引构建工具
